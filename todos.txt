@@ -1,0 +1,5 @@
+Complete testing part of epic.dev course
+Do Python Projects Course Everyday
+Make Intermittent fasting app with python
+Practice React Projects
+Learn Data Structures
